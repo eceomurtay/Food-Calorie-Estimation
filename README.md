@@ -1,4 +1,6 @@
-# Food-Calorie-Estimation
+# Food Calorie Estimation
+
+🍎 🍊 🥭 🍅 🥚 🍞 🍇
 
 *Computer Vision course project*
 
